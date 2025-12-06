@@ -2,7 +2,7 @@
 
 ## About
 
-As part of a recruitment process I was tasked with making a delivery app home screen. The app used real API data.
+Made a delivery app home screen in a ten day challenge, using real API data.
 
 ## Outcome
 
