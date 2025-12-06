@@ -2,7 +2,7 @@
 
 ## About
 
-Made a delivery app home screen in a ten day challenge, using real venue API data.
+Made a delivery app home screen using real venue API data.
 
 ## Outcome
 
